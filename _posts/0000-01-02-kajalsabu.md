@@ -2,5 +2,5 @@
 layout:slide
 title:"welcome to our next slide!"
 ---
-your text
+hello..hearty greetings
 use the left arrow to go back!
